@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## included in the boiler plate
+
+### via create-react-app
+
+babel
+webpack
+jest
+react
+react-dom
+
+### manual installs
+
+react-router
+redux
+
+### versions
+
+created using node version v10.14.1 (latest LTS version as of initial commit)
+
 ## Available Scripts
 
 In the project directory, you can run:
