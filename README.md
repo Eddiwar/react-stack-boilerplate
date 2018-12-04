@@ -8,7 +8,8 @@ babel<br>
 webpack<br>
 jest<br>
 react<br>
-react-dom
+react-dom<br>
+styled-components
 
 ### manual installs
 
