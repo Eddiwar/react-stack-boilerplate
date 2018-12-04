@@ -4,15 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### via create-react-app
 
-babel
-webpack
-jest
-react
+babel<br>
+webpack<br>
+jest<br>
+react<br>
 react-dom
 
 ### manual installs
 
-react-router
+react-router<br>
 redux
 
 ### versions
